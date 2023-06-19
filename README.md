@@ -24,7 +24,8 @@ By default, Android Studio displays your project files in the Android project vi
   
 
 
-
+<br>
+The complete Android studio project is in secondary branch named 'master'
 
 
 

@@ -15,17 +15,11 @@ By default, Android Studio displays your project files in the Android project vi
     
 	 
 
-
-![image](https://github.com/keshavbhardwaj03/cure.health/assets/75106888/b0911a21-1eab-4b97-953b-04d54bdbcf6c)
-![image](https://github.com/keshavbhardwaj03/cure.health/assets/75106888/f1380403-fe74-43e9-9c35-408ea2fa104d)
-
-![image](https://github.com/keshavbhardwaj03/cure.health/assets/75106888/0d69a680-e65d-44c0-9d3a-ef745f402621)
-
-![image](https://github.com/keshavbhardwaj03/cure.health/assets/75106888/d3e64946-ceb3-489d-8b86-aacbed9b838f)
-
-
- 
- 
+![image](https://github.com/keshavbhardwaj03/cure.Health/assets/75106888/b3ed08d5-4735-4866-afb7-60bbb511218a)
+![image](https://github.com/keshavbhardwaj03/cure.Health/assets/75106888/174ef063-6aa5-4757-85b1-78bb38b777b7)
+![image](https://github.com/keshavbhardwaj03/cure.Health/assets/75106888/0cb50acc-3ce3-47e2-914a-7ed76c17bb64)
+![image](https://github.com/keshavbhardwaj03/cure.Health/assets/75106888/58b72caa-c41e-4150-98a7-0cd6e67c8836)
+![image](https://github.com/keshavbhardwaj03/cure.Health/assets/75106888/5588cef1-f07e-4a65-b507-50e5c2b2541b)
 
   
 
